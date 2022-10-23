@@ -4,7 +4,7 @@
 
 Un despacho de abogados requiere una pagina web para la automatización de las demandas de sus clientes a traves de formularios, asi como tambien la automatización de los pagos y pueda darle seguimiento a su demanda.
 
-## 1.- Toma de Requerimientos
+## 1.- Toma de Requerimientos.
 
 ***ADMINISTRADOR***
 
@@ -12,7 +12,7 @@ Un despacho de abogados requiere una pagina web para la automatización de las d
 * Iniciar sesión.
 * Recibe notificación de nueva demanda.
 * Se genera automaticamente el documento legal con la información registrada en el formulariuo, en formato word para empezar el proceso.
-* Recibe notificacion de pafo de la demanda.
+* Recibe notificacion de pago de la demanda.
 * Visualizacion del Dashboard de los ingresos recibidos.
 * Actualizar el proceso de la demanda.
 * Agregar comentarios en cada paso del proceso de la demanda.
@@ -30,4 +30,8 @@ Un despacho de abogados requiere una pagina web para la automatización de las d
 ***SITIO***
 
 * Debe ser responsivo.
-* Colores a utilizar: Azul y Blanco (se acpetan propuestas).
+* Colores a utilizar: Azul y Blanco (se aceptan propuestas).
+
+### Diagrama de Flujo del sitio.
+
+
