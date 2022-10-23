@@ -34,6 +34,6 @@ Un despacho de abogados requiere una pagina web para la automatización de las d
 
 ### Diagrama de Flujo del sitio.
 
-![Diagrama de Flujo](./Diagrama de Flujo - Abogabot.jpg)
+![Diagrama de Flujo](./Diagrama%20de%20Flujo%20-%20Abogabot.jpg)
 
 
