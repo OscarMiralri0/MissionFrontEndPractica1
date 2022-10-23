@@ -34,6 +34,15 @@ Un despacho de abogados requiere una pagina web para la automatización de las d
 
 ### Diagrama de Flujo del sitio.
 
+Diagrama de flujo sobre la funcionalidad que tendra el sitio web visto desde el cliente y el administrador.
+
 ![Diagrama de Flujo](./Diagrama%20de%20Flujo%20-%20Abogabot.jpg)
+
+### 1.1.- Buyer Persona
+
+Se define el cliente ideal para la compra del sitio web.
+
+![Buyer Persona 1](./Juan%20Perez_Página_1.jpg)
+![Buyer Persona 2](./Juan%20Perez_Página_2.jpg)
 
 
