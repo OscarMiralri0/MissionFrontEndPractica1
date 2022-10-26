@@ -45,4 +45,9 @@ Se define el cliente ideal para la compra del sitio web.
 ![Buyer Persona 1](./img/Juan%20Perez_Página_1.jpg)
 ![Buyer Persona 2](./img/Juan%20Perez_Página_2.jpg)
 
+## Público Objetivo
+
+Es el publico que son usuarios potenciales para el uso del sitio web
+
+![Public objetivo](./img/publico_objetivo.jpg)
 
